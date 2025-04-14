@@ -1,9 +1,4 @@
-# 👋 Hi, I’m Fikri
-- 👀 I’m interested in website programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on fullstack developer team
-- 📫 How to reach me @muhammadfikri4402@gmail.com
-- Machine Learning Enthusiast
+![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaysHere&show_icons=true&count_private=true)
 
 <!---
 ClaysHere/ClaysHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
