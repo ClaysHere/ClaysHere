@@ -1,4 +1,4 @@
-![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaysHere&show_icons=true&theme=vue-dark)
+![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaysHere&show_icons=true&theme=panda)
 
 <!---
 ClaysHere/ClaysHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
